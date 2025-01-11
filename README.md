@@ -14,7 +14,7 @@ Web Stalker is a powerful tool for analyzing websites to detect frontend technol
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/web-stalker.git
+   git clone https://github.com/TheCoree/web-stalker.git
    cd web-stalker
    ```
 
