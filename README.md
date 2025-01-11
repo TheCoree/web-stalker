@@ -28,17 +28,17 @@ Web Stalker is a powerful tool for analyzing websites to detect frontend technol
 Run Web Stalker with the following command:
 
 ```bash
-python web_stalker.py -u <website_url> [options]
+python web_stalker.py <website_url> [options]
 ```
 
 ### Options
-- `-u`, `--url`: The target website URL.
-- `-o`, `--output-json`: Output scan results in JSON format.
+- `--verbose`: Full informations.
+- `--json`: Output scan results in JSON format.
 
 ### Example
 
 ```bash
-python web_stalker.py -u https://example.com -o
+python web_stalker.py https://example.com -o
 ```
 
 ## Versions
@@ -52,7 +52,7 @@ The beta version introduces enhanced detection with contextual analysis to impro
 Switch to the beta version by running:
 
 ```bash
-python web_stalker_beta.py -u <website_url> [options]
+python web_stalker_beta.py <website_url> [options]
 ```
 
 ## Development

@@ -2,7 +2,7 @@ import argparse
 import requests
 import re
 import json
-import Messages
+from Messages import Messages
 
 class WebsiteTechnologyScanner:
     """Scans a website to identify the technology it uses."""
