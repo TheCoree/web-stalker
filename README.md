@@ -2,6 +2,8 @@
 
 Web Stalker is a powerful tool for analyzing websites to detect frontend technologies, backend languages, and other website-related details. It is designed to provide an easy-to-use interface while allowing advanced users to customize and improve detection capabilities.
 
+![Web-Staker](./assets/image.png)
+
 ## Features
 
 - **Frontend Technology Detection**: Identifies technologies like WordPress, React, and Django based on website content.
